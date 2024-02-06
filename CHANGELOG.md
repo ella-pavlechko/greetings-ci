@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/ella-pavlechko/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-06)
+
+
+### Features
+
+* add testing pipeline ([118c10f](https://github.com/ella-pavlechko/greetings-ci/commit/118c10f94e0c6a56856ea92bafafe99a686b6f69))
+
+
+
 # [0.3.0](https://github.com/ella-pavlechko/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
 
 
