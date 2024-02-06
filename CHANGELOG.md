@@ -1,4 +1,13 @@
-# 0.1.0 (2024-02-06)
+# [0.2.0](https://github.com/ella-pavlechko/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
+
+
+### Features
+
+* upload artifact ([d938849](https://github.com/ella-pavlechko/greetings-ci/commit/d93884937a312a05dd0f8fa8b5befc086c42d37d))
+
+
+
+# [0.1.0](https://github.com/ella-pavlechko/greetings-ci/compare/2ae909b39cb9ba555c189798560c7fb12d0bec96...v0.1.0) (2024-02-06)
 
 
 ### Bug Fixes
