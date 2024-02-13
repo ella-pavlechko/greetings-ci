@@ -1,9 +1,9 @@
-# 0.6.0 (2024-02-13)
+## 0.6.1 (2024-02-13)
 
 
-### Features
+### Bug Fixes
 
-* add green/blue branches and stage/prod deployment ([cfde2c6](https://github.com/ella-pavlechko/greetings-ci/commit/cfde2c63515481808435e946c747dc763d4e445c))
+* update to greeting for blue ([5e24d72](https://github.com/ella-pavlechko/greetings-ci/commit/5e24d72a6d4acd0243eda33e9196e67045d4a411))
 
 
 
